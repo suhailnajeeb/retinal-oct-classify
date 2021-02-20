@@ -55,6 +55,6 @@ Optical Coherence Tomography (OCT) is an advanced imaging technique which uses c
 ## Confusion Matrix
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/suhailnajeeb/retinal-oct-classify/master/figures/confusion_matrix_without_normalization.png"><br>
+  <img width=200 src="https://raw.githubusercontent.com/suhailnajeeb/retinal-oct-classify/master/figures/confusion_matrix_without_normalization.png"><br>
   Confusion Matrix
 </p>
